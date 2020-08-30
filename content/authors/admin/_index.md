@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoc at UCLA
+role: Postdoc in Statistical Physics
 
 # Organizations/Affiliations
 organizations:
