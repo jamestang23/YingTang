@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -67,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Nonequilibrium statistic physics
+1. Nonequilibrium thermodynamics 
 
-As a remarkable advance in nonequilibrium thermodynamics during the last 20 years, Jarzynski equality connects free energy changes to nonequilibrium work fluctuations. However, the original proof of Jarzynski equality was for Hamiltonian system, and how accurate it is for nonequilibrium systems without detailed balance remains unclear. Through using a path integral method [1], we derived free energy equalities for a class of Langevin dynamics without detailed balance [2], where we found that Jarzynski equality is independent of breakdown of detailed balance in the classical regime.
+As a remarkable advance in nonequilibrium thermodynamics during the last 20 years, Jarzynski equality connects free energy changes to nonequilibrium work fluctuations. We found that the free energy change through the Jarzynski equality is independent of magnetic field in the classical regime, but can be amplified by magnetic field in driven quantum system beyond classical regime.
 
