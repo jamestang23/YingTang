@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: jamestang23@gmail.com
+  link: "jamestang23@gmail.com"
 - icon: github
   icon_pack: fab
   link: https://github.com/jamestang23
