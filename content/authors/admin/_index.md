@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ying Tang
+title: Ying Tang (汤迎)
 
 # Username (this should match the folder name)
 authors:
