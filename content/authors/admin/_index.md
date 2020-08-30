@@ -71,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-I'm currently a postdoc fellow at Signaling Systems Laboratory in University of California, Los Angeles, supported by Prof. Alexander Hoffmann. I obtained my Ph.D. from Department of Physics, Shanghai Jiao Tong University in 2018, mentored by Prof. Ping Ao. During July 2016 to January 2018, I was an exchange graduate student in Department of Physics, University of California, San Diego, where I got quantitative training from Prof. Terence Hwa. I completed my B.S. in honored class of Zhiyuan College, Shanghai Jiao Tong University in 2013.
+I'm currently a postdoc fellow at Signaling Systems Laboratory in University of California, Los Angeles, supported by Prof. Alexander Hoffmann {name = "Alexander Hoffmann", link = "https://www.signalingsystems.ucla.edu/"}. I obtained my Ph.D. from Department of Physics, Shanghai Jiao Tong University in 2018, mentored by Prof. Ping Ao. During July 2016 to January 2018, I was an exchange graduate student in Department of Physics, University of California, San Diego, where I got quantitative training from Prof. Terence Hwa. I completed my B.S. in honored class of Zhiyuan College, Shanghai Jiao Tong University in 2013.
 
 My research topics include statistical physics, nonequilibrium thermodynamics, information theory, deep learning and quantitative biology. Combining analytical and machine learning approaches, my ultimate goal is to uncover simple theoretical principles that could help understand complex nonequilibrium dynamical process.
 
