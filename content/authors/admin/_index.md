@@ -43,15 +43,15 @@ social:
 #- icon: envelope
   #icon_pack: fas
   #link: "mailto:jamestang23@gmail.com"
-- icon: google
-  icon_pack: fab
-  link: https://scholar.google.com/citations?user=-5bbqWsAAAAJ&hl=en
+#- icon: google
+  #icon_pack: fab
+  #link: https://scholar.google.com/citations?user=-5bbqWsAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/jamestang23
-#- icon: google-scholar
- # icon_pack: ai
-  #link: https://scholar.google.com/citations?user=-5bbqWsAAAAJ&hl=en
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=-5bbqWsAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/tang-ying-8723365a/
