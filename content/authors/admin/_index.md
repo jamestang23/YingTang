@@ -75,4 +75,4 @@ I'm currently a postdoc fellow at Signaling Systems Laboratory in University of 
 
 My research topics include statistical physics, nonequilibrium thermodynamics, information theory, deep learning and quantitative biology. Combining analytical and machine learning approaches, my ultimate goal is to uncover simple theoretical principles that could help understand complex nonequilibrium dynamical process.
 
-To discuss any interesting science, feel free to contact me at jamestang23@gmail.com.
+To discuss any interesting science, feel free to contact me at jamestang23@gmail.com
