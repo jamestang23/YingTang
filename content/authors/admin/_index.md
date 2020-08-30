@@ -42,12 +42,15 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "jamestang23@gmail.com"
+  link: "mailto:jamestang23@gmail.com"
 - icon: github
   icon_pack: fab
   link: https://github.com/jamestang23
-- icon: google-scholar
-  icon_pack: ai
+#- icon: google-scholar
+ # icon_pack: ai
+  #link: https://scholar.google.com/citations?user=-5bbqWsAAAAJ&hl=en
+- icon: google
+  icon_pack: fab
   link: https://scholar.google.com/citations?user=-5bbqWsAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -69,4 +72,4 @@ I'm currently a postdoc fellow at Signaling Systems Laboratory in University of 
 
 My research topics include: Stochastic process without detailed balance; Free energy for nonequilibrium (quantum) thermodynamics; Information transmission for signaling dynamics; Cell state transitions of hematopoiesis; Bacterial chemotaxis. Combining analytical and machine learning approaches, my ultimate goal is to uncover simple theoretical principles that could help understand complex nonequilibrium dynamical process.
 
-Check my recent publications in https://scholar.google.com/citations?user=-5bbqWsAAAAJ&hl=en. 
+#Check my recent publications in https://scholar.google.com/citations?user=-5bbqWsAAAAJ&hl=en. 
