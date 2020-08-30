@@ -69,5 +69,15 @@ subtitle = ""
 
 1. Nonequilibrium thermodynamics 
 
-As a remarkable advance in nonequilibrium thermodynamics during the last 20 years, Jarzynski equality connects free energy changes to nonequilibrium work fluctuations. We found that the free energy change through the Jarzynski equality is independent of magnetic field in the classical regime, but can be amplified by magnetic field in driven quantum system beyond classical regime.
+  As a remarkable advance in nonequilibrium thermodynamics during the last 20 years, Jarzynski equality connects free energy changes to nonequilibrium work fluctuations. We found that the free energy change through the Jarzynski equality is independent of magnetic field in the classical regime, but can be amplified by magnetic field in driven quantum system beyond classical regime.
+  
+
+2. Information theory
+
+ We develope a methodology to quantify dynamical mutual information of intracellular signaling process.
+ 
+3. Stochastic process without detailed balance
+  
+  Stochastic transitions are ubiquitous in nature. We develop a scalable numerical approach and an analytical method to calculate transition rates for a class of stochastic dynamics. The computational cost is robust with respect to varying noise intensity, beyond small noise limit. The efficient computations on transition rates enable a broader use of stochastic modeling in complex dynamics, such as cell state transitions in developmental process.
+
 
