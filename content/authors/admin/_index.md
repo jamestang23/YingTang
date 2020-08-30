@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm currently a postdoc fellow at Signaling Systems Laboratory in University of California, Los Angeles, supported by Prof. Alexander Hoffmann. I obtained my Ph.D. from Department of Physics, Shanghai Jiao Tong University in 2018, mentored by Prof. Ping Ao. During July 2016 to January 2018, I was an exchange graduate student in Department of Physics, University of California, San Diego, where I got quantitative training from Prof. Terence Hwa. I completed my B.S. in honored class of Zhiyuan College, Shanghai Jiao Tong University in 2013.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research topics include: Stochastic process without detailed balance; Free energy for nonequilibrium (quantum) thermodynamics; Information transmission for signaling dynamics; Cell state transitions of hematopoiesis; Bacterial chemotaxis. Combining analytical and machine learning approaches, my ultimate goal is to uncover simple theoretical principles that could help understand complex nonequilibrium dynamical process.
