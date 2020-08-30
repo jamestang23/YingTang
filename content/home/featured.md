@@ -66,3 +66,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Nonequilibrium statistic physics
+
+As a remarkable advance in nonequilibrium thermodynamics during the last 20 years, Jarzynski equality connects free energy changes to nonequilibrium work fluctuations. However, the original proof of Jarzynski equality was for Hamiltonian system, and how accurate it is for nonequilibrium systems without detailed balance remains unclear. Through using a path integral method [1], we derived free energy equalities for a class of Langevin dynamics without detailed balance [2], where we found that Jarzynski equality is independent of breakdown of detailed balance in the classical regime.
+
