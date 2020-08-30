@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ying Tang
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoc at UCLA
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of California, Los Angeles
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include statistical physics, nonequilibrium thermodynamics, machine learning, and quantitative biology.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistical physics
+- Nonequilibrium thermodynamics
+- Machine learning
+- Quantitative biology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Physics
+    institution: Shanghai Jiao Tong University
+    year: 2018
+  - course: B.S. in Applied Mathematics
+    institution: Shanghai Jiao Tong University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +42,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: '#contact'  # For a direct email link, use "jamestang23@gmail.com".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=-5bbqWsAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jamestang23
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
