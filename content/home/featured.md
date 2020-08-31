@@ -27,9 +27,9 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = "1"
-    publication_type = "1"
-    author = "YT"
+    category = ""
+    publication_type = ""
+    author = ""
   
 [design]
   # Toggle between the various page layout types.
@@ -66,6 +66,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+<div style="font-size: 2rem; color: blue">
+  {{  Nonequilibrium thermodynamics: As a remarkable advance}}
+</div>
 
 1. Nonequilibrium thermodynamics: As a remarkable advance in nonequilibrium thermodynamics during the last 20 years, Jarzynski equality connects free energy changes to nonequilibrium work fluctuations. We found that the free energy change through the Jarzynski equality is independent of magnetic field in the [classical regime](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.91.042108), but can be amplified by magnetic field in driven quantum system beyond classical regime [To appear].
   
