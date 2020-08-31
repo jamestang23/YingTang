@@ -78,6 +78,6 @@ Inferring mutual information from time series data remained challenging as the p
 
 * **Stochastic process without detailed balance:**
 
-Stochastic transitions are ubiquitous in nature. Based on path integral [[4]](https://aip.scitation.org/doi/abs/10.1063/1.4890968) approach, we develop a scalable numerical approach to calculate transition rates for a class of stochastic dynamics [[5]](https://www.nature.com/articles/s41598-017-15889-2). The computational cost is robust to varying noise intensity, beyond small noise limit. The efficient computations on transition rates enable a broader use of stochastic modeling in complex dynamics, such as cell state transitions [[6]](https://www.nature.com/articles/nmeth.4402.pdf?origin=ppub).
+Stochastic transitions are ubiquitous in nature. Based on path integral approach [[4]](https://aip.scitation.org/doi/abs/10.1063/1.4890968), we develop a scalable numerical approach to calculate transition rates for a class of stochastic dynamics [[5]](https://www.nature.com/articles/s41598-017-15889-2). The computational cost is robust to varying noise intensity, beyond small noise limit. The efficient computations on transition rates enable a broader use of stochastic modeling in complex dynamics, such as cell state transitions [[6]](https://www.nature.com/articles/nmeth.4402.pdf?origin=ppub).
 
 
