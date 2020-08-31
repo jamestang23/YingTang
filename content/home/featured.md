@@ -67,18 +67,18 @@ subtitle = ""
  css_class = ""
 +++
 
-<div style="font-size: 1rem; color: blue">
+<div style="font-size: 1.1rem; color: blue">
 1. Nonequilibrium thermodynamics
 </div>
 As a remarkable advance in nonequilibrium thermodynamics during the last 20 years, Jarzynski equality connects free energy changes to nonequilibrium work fluctuations. We found that the free energy change through the Jarzynski equality is independent of magnetic field in the [classical regime](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.91.042108), but can be amplified by magnetic field in driven quantum system beyond classical regime [To appear].
   
 
-<div style="font-size: 1rem; color: blue">
+<div style="font-size: 1.1rem; color: blue">
 2. Information theory:
 </div>
-We develope a [computational framework](https://sites.google.com/view/dmipackage/home) to quantify dynamical mutual information of intracellular signaling process.
+Inferring the mutual information from time series data remained challenging as the number of possible trajectories increases exponentially with the number of time points. We develope a [computational framework](https://sites.google.com/view/dmipackage/home) to quantify dynamical mutual information of intracellular signaling process.
 
-<div style="font-size: 1rem; color: blue">
+<div style="font-size: 1.1rem; color: blue">
 3. Stochastic process without detailed balance: 
 </div>
 Stochastic transitions are ubiquitous in nature. Based on [path integral](https://aip.scitation.org/doi/abs/10.1063/1.4890968) approach, we develop a scalable [numerical approach](https://www.nature.com/articles/s41598-017-15889-2) to calculate transition rates for a class of stochastic dynamics. The computational cost is robust with respect to varying noise intensity, beyond small noise limit. The efficient computations on transition rates enable a broader use of stochastic modeling in complex dynamics, such as [cell state transitions](https://www.nature.com/articles/nmeth.4402.pdf?origin=ppub) in developmental process.
