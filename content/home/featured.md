@@ -67,14 +67,14 @@ subtitle = ""
  css_class = ""
 +++
 
-* **Nonequilibrium thermodynamics:**
+* **Nonequilibrium quantum thermodynamics:**
 
-As a remarkable advance in nonequilibrium thermodynamics during the last 20 years, Jarzynski equality connects free energy changes to nonequilibrium work fluctuations. We found that the free energy change through the Jarzynski equality is independent of magnetic field in the classical regime [[1]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.91.042108), but can be amplified by magnetic field in driven quantum system [To appear].
+As a remarkable advance in nonequilibrium thermodynamics during the last 20 years, Jarzynski equality connects free energy changes to nonequilibrium work fluctuations. We found that the free energy change through the Jarzynski equality is independent of magnetic field in the classical regime [[1]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.91.042108), but can be amplified by magnetic field in driven quantum system [[2]](https://www.nature.com/articles/s42005-020-00509-9).
   
 
 * **Information theory:**
 
-Inferring mutual information from time series data remained challenging as the possible trajectory configurations increases exponentially with the number of time points. We develop a computational framework to quantify the dynamical mutual information of intracellular signaling process [[3]](https://sites.google.com/view/dmipackage/home).
+Inferring mutual information from time series data remained challenging as the possible trajectory configurations increases exponentially with the number of time points. We develop a computational framework to quantify the dynamical mutual information of intracellular signaling process [[Nat. Commun. accepted]](https://sites.google.com/view/dmipackage/home).
 
 * **Stochastic process without detailed balance:**
 
