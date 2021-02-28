@@ -74,7 +74,7 @@ As a remarkable advance in nonequilibrium thermodynamics during the last 20 year
 
 * **Information theory:**
 
-Inferring mutual information from time series data remained challenging as the possible trajectory configurations increases exponentially with the number of time points. We develop a computational framework to quantify the dynamical mutual information of intracellular signaling process [[Nat. Commun. accepted]](https://sites.google.com/view/dmipackage/home).
+Inferring mutual information from time series data remained challenging as the possible trajectory configurations increases exponentially with the number of time points. We develop a [computational framework](https://sites.google.com/view/dmipackage/home) to quantify the dynamical mutual information of intracellular signaling process [[3]](https://www.nature.com/articles/s41467-021-21562-0).
 
 * **Stochastic process without detailed balance:**
 
