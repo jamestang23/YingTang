@@ -82,7 +82,7 @@ As a remarkable advance in nonequilibrium thermodynamics during the last 20 year
 
 * **Quantitative biology:**
 
-To understand the complex behaviors in biological systems across scales, we have attempted to construct minimum model to describe and predict the data: a) we identified computationally a molecular circuit and key parameters that control necroptosis decisions such that a bimodal death-time distribution can be produced  [[8]](https://www.embopress.org/doi/full/10.15252/msb.20209677); (b) we demonstrated that chemotaxis in nutrient-replete conditions promotes the expansion of bacterial populations by modeling the physiological effect on bacterial chemotaxis [[9]](https://www.nature.com/articles/s41586-019-1733-y); (c) we used the birth-death process to reveal the key differentiation step with accelerated differentiation rates during the B-cell development [[10]](under review).
+To understand the complex behaviors in biological systems across scales, we have attempted to construct minimum model to describe the data and make predictions. (a) we identified computationally a molecular circuit and key parameters that control necroptosis decisions such that a bimodal death-time distribution can be produced  [[8]](https://www.embopress.org/doi/full/10.15252/msb.20209677); (b) we demonstrated that chemotaxis in nutrient-replete conditions promotes the expansion of bacterial populations by modeling the physiological effect on bacterial chemotaxis [[9]](https://www.nature.com/articles/s41586-019-1733-y); (c) we used the birth-death process to reveal the key differentiation step with accelerated differentiation rates during the B-cell development [[10]](under review).
 
 
 
