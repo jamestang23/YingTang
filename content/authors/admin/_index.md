@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoc in Statistical Physics
+role: Associate Researcher in Statistical Physics
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Los Angeles
+- name: Beijing Normal University, Zhuhai
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
