@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research topics include statistical physics, quantum thermodynamics, information theory, machine learning and quantitative biology.
+bio: My research topics include statistical physics, nonequilibrium thermodynamics, information theory, machine learning and quantitative biology.
 
 interests:
 - Statistical physics
