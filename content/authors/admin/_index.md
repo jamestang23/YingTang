@@ -22,8 +22,9 @@ bio: My research topics include statistical physics, quantum thermodynamics, inf
 
 interests:
 - Statistical physics
-- Quantum thermodynamics
+- Nonequilibrium thermodynamics
 - Machine learning
+- Information theory
 - Quantitative biology
 
 education:
