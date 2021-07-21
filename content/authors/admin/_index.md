@@ -22,7 +22,6 @@ bio: My research topics include statistical physics, nonequilibrium thermodynami
 
 interests:
 - Statistical physics
-- Nonequilibrium thermodynamics
 - Machine learning
 - Information theory
 - Quantitative biology
