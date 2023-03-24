@@ -69,7 +69,7 @@ subtitle = ""
 
 * **Machine learning stochastic dynamics:**
 
-We propose the first approach of using the neural network alone to solve the chemical master equation [[1]]([https://www.nature.com/articles/s41467-021-21562-0](https://www.nature.com/articles/s42256-023-00632-6)).
+We propose the first approach of using the neural network alone to solve the chemical master equation [[1]](https://www.nature.com/articles/s42256-023-00632-6).
 
 * **Information theory:**
 
