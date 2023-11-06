@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research topics include stochastic process, machine learning, nonequilibrium statistical physics, information theory and quantitative biology.
+bio: Our research topics include stochastic process, machine learning, nonequilibrium statistical physics, information theory and quantitative biology.
 
 interests:
 - Stochastic process
@@ -70,9 +70,9 @@ email: "jamestang23@gmail.com"
 #- Principal Investigators
 ---
 
-I'm currently an Associate Researcher at [International Academic Center of Complex Systems](https://zkgyy.bnu.edu.cn/index.html), Beijing Normal University, Zhuhai, China. From July 2018 to June 2021, I was a Postdoc fellow at Signaling Systems Laboratory in University of California, Los Angeles, supported by Prof. [Alexander Hoffmann](https://www.signalingsystems.ucla.edu/). I obtained my Ph.D. from Department of Physics, Shanghai Jiao Tong University in 2018, mentored by Prof. [Ping Ao](https://scholar.google.com/citations?user=JQyz-BoAAAAJ&hl=en). During July 2016 to January 2018, I was an exchange graduate student in Department of Physics, University of California, San Diego, where I got quantitative training from Prof. [Terence Hwa](https://matisse.ucsd.edu/). I completed my B.S. in honored class of [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), Shanghai Jiao Tong University in 2013. 
+Our research topics include stochastic process, machine learning, nonequilibrium statistical physics, information theory and quantitative biology. Combining analytical and numerical approaches, the ultimate goal is to uncover simple theoretical principles that could help understand complex nonequilibrium dynamical processes.
 
-My research topics include stochastic process, machine learning, nonequilibrium statistical physics, information theory and quantitative biology. Combining analytical and numerical approaches, my ultimate goal is to uncover simple theoretical principles that could help understand complex nonequilibrium dynamical processes.
+Check our recent publications in [Google Scholar](https://scholar.google.com/citations?user=-5bbqWsAAAAJ&hl=en).
+To discuss any interesting science, feel free to contact us at jamestang23@gmail.com
 
-Check my recent publications in [Google Scholar](https://scholar.google.com/citations?user=-5bbqWsAAAAJ&hl=en).
-To discuss any interesting science, feel free to contact me at jamestang23@gmail.com
+About PI: I'm currently an Associate Researcher at [International Academic Center of Complex Systems](https://zkgyy.bnu.edu.cn/index.html), Beijing Normal University, Zhuhai, China. From July 2018 to June 2021, I was a Postdoc fellow at Signaling Systems Laboratory in University of California, Los Angeles, supported by Prof. [Alexander Hoffmann](https://www.signalingsystems.ucla.edu/). I obtained my Ph.D. from Department of Physics, Shanghai Jiao Tong University in 2018, mentored by Prof. [Ping Ao](https://scholar.google.com/citations?user=JQyz-BoAAAAJ&hl=en). During July 2016 to January 2018, I was an exchange graduate student in Department of Physics, University of California, San Diego, where I got quantitative training from Prof. [Terence Hwa](https://matisse.ucsd.edu/). I completed my B.S. in honored class of [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), Shanghai Jiao Tong University in 2013. 
