@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Haotian Xie 谢昊天
+title: Fangfang Wang 王芳芳
 
 # Full name (for SEO)
-first_name: Haotian
-last_name: Xie
+first_name: Fangfang
+last_name: Wang
 
 # Username (this should match the folder name)
 authors:
-  - 谢昊天
+  - 王芳芳
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,17 +22,20 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the theory of complex climate systems and the identification of extreme climate events.
+bio: 
+ - Pseudo phase transitions in finite-size spin systems.
+ - Studying third-order-transitions based on neural networks — providing early warnings for catastrophic behavior in complex systems.
 
 interests:
   - Statistical Physics
-  - Complex Networks
+  - Machine Learning
+  - Complex Systems
 
 education:
   courses:
-    - course: BSc in Systems Science and Engineering
+    - course: PhD in Systems Theory
       institution: Beijing Normal University
-      year: 2024
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -41,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:haotianxie@mail.bnu.edu.cn'
+    link: '944135200@qq.com'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
@@ -52,8 +55,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduates
+  - doctoral student
 ---
 
-谢昊天 is currently an undergraduate student majoring in Systems Science and Engineering at Beijing Normal University under the supervision of Dr. Ying Tang. His research work focuses on the theory of complex climate systems and the identification of extreme climate events.
+王芳芳 is currently an doctoral student student majoring in Systems Science at Beijing Normal University under the supervision of Dr. Zengru Di and Dr. Ying Tang. 
 
