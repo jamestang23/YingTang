@@ -66,8 +66,8 @@ email: "jamestang23@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Principal Investigators
+user_groups:
+- Principal Investigators
 ---
 
 Our research topics include stochastic process, machine learning, nonequilibrium statistical physics, information theory and quantitative biology. Combining analytical and numerical approaches, the ultimate goal is to uncover simple theoretical principles that could help understand complex nonequilibrium dynamical processes.
