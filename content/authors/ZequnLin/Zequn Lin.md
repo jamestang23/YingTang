@@ -8,7 +8,7 @@ last_name: Lin
 
 # Username (this should match the folder name)
 authors:
-  - 林泽群
+  - ZequnLin
 
 # Is this the primary user of the site?
 superuser: false
