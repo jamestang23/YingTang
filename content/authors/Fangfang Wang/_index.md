@@ -55,7 +55,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - doctoral student
+  - PhD Students
 ---
 
 王芳芳 is currently an doctoral student student majoring in Systems Science at Beijing Normal University under the supervision of Dr. Zengru Di and Dr. Ying Tang. 
