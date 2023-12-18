@@ -57,7 +57,5 @@ email: '202011059007@mail.bnu.edu.cn'
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Undergraduates
----
-
 
 
