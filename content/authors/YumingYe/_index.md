@@ -9,7 +9,6 @@ last_name: Ye
 # Username (this should match the folder name)
 authors:
   - 叶育鸣
-
 # Is this the primary user of the site?
 superuser: false
 
