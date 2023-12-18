@@ -28,7 +28,7 @@ role: Undergraduate majoring in Systems Science and Engineering
 
 organizations:
 
-- name: Beijing Normal University, Faculty of Arts and Sciences
+- name: Beijing Normal University
 
 # Short bio (displayed in user profile at end of posts)
 
