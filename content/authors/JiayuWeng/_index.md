@@ -1,37 +1,29 @@
 ---
 
 # Display name
-
 title: Jiayu Weng 翁佳钰
 
 # Full name (for SEO)
-
-first_name: Jiayu 
-
+first_name: Jiayu
 last_name: Weng
 
 # Username (this should match the folder name)
-
 authors:
-- 翁佳钰
+  - 翁佳钰
 
 # Is this the primary user of the site?
-
 superuser: false
 
 # Role/position
-
 role: Undergraduate Student
 
 # Organizations/Affiliations
-
 organizations:
-- name: Beijing Normal University
-  url: ''
+  - name: Beijing Normal University
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio:
-- My research interests include complex systems, machine learning, network science. Currently I am looking for a PhD position focused on AI for Science.
+bio: My research interests include complex systems, machine learning, network science. Currently I am looking for a PhD position focused on AI for Science.
 education:&#x20;
 
 courses: &#x20;
