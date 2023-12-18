@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -37,7 +37,7 @@ education:
       institution: Beijing Normal University
       year: 2026
 
-# Social/Academic Networking
+Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
@@ -58,5 +58,5 @@ user_groups:
   - PhD Students
 ---
 
-Wang Fangfang is currently an doctoral student student majoring in Systems Science at Beijing Normal University under the supervision of Dr. Zengru Di and Dr. Ying Tang. 
+Wang Fangfang is currently a PhD Students student student majoring in Systems Science at Beijing Normal University under the supervision of Dr. Zengru Di and Dr. Ying Tang. 
 
