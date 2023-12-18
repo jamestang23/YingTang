@@ -58,5 +58,5 @@ user_groups:
   - PhD Students
 ---
 
-王芳芳 is currently an doctoral student student majoring in Systems Science at Beijing Normal University under the supervision of Dr. Zengru Di and Dr. Ying Tang. 
+Wang Fangfang is currently an doctoral student student majoring in Systems Science at Beijing Normal University under the supervision of Dr. Zengru Di and Dr. Ying Tang. 
 
