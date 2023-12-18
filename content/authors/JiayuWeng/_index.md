@@ -22,16 +22,13 @@ superuser: false
 
 # Role/position
 
-role: Undergraduate majoring in Systems Science and Engineering
-
+role: Undergraduate Student
 # Organizations/Affiliations
 
 organizations:
-
 - name: Beijing Normal University
   url: ''
 # Short bio (displayed in user profile at end of posts)
-
 bio：
 - My research interests include complex systems, machine learning, network science. Currently I am looking for a PhD position focused on AI for Science.
 
