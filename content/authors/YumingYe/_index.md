@@ -20,8 +20,7 @@ organizations:
   - name: Beijing Normal University
   url: ''
 # Short bio (displayed in user profile at end of posts)
-bio: 
-- A Research Assistant, an undergraduate student majoring in Mathematics and Applied Mathematics. 
+bio: A Research Assistant, an undergraduate student majoring in Mathematics and Applied Mathematics. 
 
 interests:
   - Machine Learning
