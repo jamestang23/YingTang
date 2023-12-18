@@ -29,13 +29,9 @@ education:&#x20;
 courses: &#x20;
 
 \- course: Bachelor of Systems Science and Engineering institution: Beijing Normal University year: expected in 2024
-
 # Social/Academic Networking
-
 # For available icons, see: <https://wowchemy.com/docs/getting-started/page-builder/#icons>
-
 # For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-
 # form "mailto:<your-email@example.com>" or "#contact" for contact widget.
 
 social:
