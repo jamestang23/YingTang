@@ -15,10 +15,12 @@ superuser: false
 
 # Role/position
 role: Student
+
 # Organizations/Affiliations
 organizations:
   - name: Beijing Normal University
-  url: ''
+    url: ''
+
 # Short bio (displayed in user profile at end of posts)
 bio: A Research Assistant, an undergraduate student majoring in Mathematics and Applied Mathematics. 
 
