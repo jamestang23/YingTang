@@ -22,7 +22,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-My research interests include complex systems, machine learning, network science. Currently I am looking for a PhD position focused on AI for Science.
+- My research interests include complex systems, machine learning, network science. Currently I am looking for a PhD position focused on AI for Science.
 education:
   courses:
     - course: Bachelor of Systems Science and Engineering 
