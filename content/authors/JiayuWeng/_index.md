@@ -21,13 +21,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-- My research interests include complex systems, machine learning, network science. Currently I am looking for a PhD position focused on AI for Science.
+bio: My research interests include complex systems, machine learning, network science. Currently I am looking for a PhD position focused on AI for Science.
 education:
   courses:
     - course: Bachelor of Systems Science and Engineering 
-    - institution: Beijing Normal University 
-    - year: expected in 2024
+      institution: Beijing Normal University 
+      year: expected in 2024
 
 # Social/Academic Networking
 
@@ -79,4 +78,4 @@ user_groups:
 
 ---
 
-翁佳钰 is an undergraduate at Beijing Normal University, majoring in Systems Science and Engineering. Her research interests include complex systems, machine learning, network science.&#x20;
+翁佳钰 is an undergraduate at Beijing Normal University, majoring in Systems Science and Engineering. Her research interests include complex systems, machine learning, network science.
