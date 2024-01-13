@@ -14,7 +14,8 @@ role: Professor in Physics
 
 # Organizations/Affiliations
 organizations:
-- name: %Beijing Normal University, Zhuhai
+- name:
+# Beijing Normal University, Zhuhai
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
