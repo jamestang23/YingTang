@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Researcher in Statistical Physics
+role: Professor in Physics
 
 # Organizations/Affiliations
 organizations:
-- name: Beijing Normal University, Zhuhai
+- name: %Beijing Normal University, Zhuhai
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -75,4 +75,5 @@ Our research topics include stochastic process, machine learning, nonequilibrium
 Check our recent publications in [Google Scholar](https://scholar.google.com/citations?user=-5bbqWsAAAAJ&hl=en).
 To discuss any interesting science, feel free to contact us at jamestang23@gmail.com
 
-About PI: I'm currently an Associate Researcher at [International Academic Center of Complex Systems](https://zkgyy.bnu.edu.cn/index.html), Beijing Normal University, Zhuhai, China. From July 2018 to June 2021, I was a Postdoc fellow at Signaling Systems Laboratory in University of California, Los Angeles, supported by Prof. [Alexander Hoffmann](https://www.signalingsystems.ucla.edu/). I obtained my Ph.D. from Department of Physics, Shanghai Jiao Tong University in 2018, mentored by Prof. [Ping Ao](https://scholar.google.com/citations?user=JQyz-BoAAAAJ&hl=en). During July 2016 to January 2018, I was an exchange graduate student in Department of Physics, University of California, San Diego, where I got quantitative training from Prof. [Terence Hwa](https://matisse.ucsd.edu/). I completed my B.S. in honored class of [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), Shanghai Jiao Tong University in 2013. 
+About PI: From July 2021, I'm an Associate Researcher at [International Academic Center of Complex Systems](https://zkgyy.bnu.edu.cn/index.html), Beijing Normal University, Zhuhai, China. 
+From July 2018 to June 2021, I was a Postdoc fellow at Signaling Systems Laboratory in University of California, Los Angeles, supported by Prof. [Alexander Hoffmann](https://www.signalingsystems.ucla.edu/). I obtained my Ph.D. from Department of Physics, Shanghai Jiao Tong University in 2018, mentored by Prof. [Ping Ao](https://scholar.google.com/citations?user=JQyz-BoAAAAJ&hl=en). During July 2016 to January 2018, I was an exchange graduate student in Department of Physics, University of California, San Diego, where I got quantitative training from Prof. [Terence Hwa](https://matisse.ucsd.edu/). I completed my B.S. in honored class of [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), Shanghai Jiao Tong University in 2013. 
