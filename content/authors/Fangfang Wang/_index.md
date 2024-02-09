@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Fangfang Wang 王芳芳
+title: Fangfang Wang 王芳芳 (joint)
 
 # Full name (for SEO)
 first_name: Fangfang
