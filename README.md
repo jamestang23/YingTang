@@ -1,3 +1,3 @@
 My GitHub Page
 =======
-# yulequan.github.io
+# https://yingtangwebsite.netlify.app/
